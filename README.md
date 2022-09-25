@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @amonduu
-- 👀 I’m interested in front-end
-- 🌱 I’m currently learning html/css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 @amonduu
+- 👀 android
+- 🌱 java/html,css,js
+- 📫 kbsksy1221@naver.com or 0ksuyeon0@gmail.com
 
 <!---
 amonduu/amonduu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
