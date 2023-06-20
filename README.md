@@ -3,4 +3,4 @@
 - 🌱 learning Java && JavaScript
 - 📫 kbsksy1221@naver.com or 0ksuyeon0@gmail.com
 - velog: https://velog.io/@ksy1221
-- -Tistory: https://sudal-su.tistory.com/
+- Tistory: https://sudal-su.tistory.com/
