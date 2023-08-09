@@ -1,6 +1,6 @@
 - 👋 @amonduu
 - 👀 android
-- 🌱 learning Java && JavaScript
-- 📫 kbsksy1221@naver.com or 0ksuyeon0@gmail.com
+- 🌱 learning JavaScript
+- 📫 kbsksy1221@naver.com
 - velog: https://velog.io/@ksy1221
 - Tistory: https://sudal-su.tistory.com/
