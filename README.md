@@ -2,5 +2,3 @@
 - 👀 android
 - 🌱 learning JavaScript
 - 📫 kbsksy1221@naver.com
-- velog: https://velog.io/@ksy1221
-- Tistory: https://sudal-su.tistory.com/
