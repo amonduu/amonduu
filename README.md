@@ -1,4 +1,3 @@
 - 👋 @amonduu
 - 👀 android
 - 🌱 learning JavaScript
-- 📫 kbsksy1221@naver.com
